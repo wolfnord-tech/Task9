@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Task9.1</string>
+    <string name="name_file">Имя файла</string>
+    <string name="file">Содержимое файла</string>
+    <string name="create_file">Создать файл</string>
+    <string name="read_file">Прочитать файл</string>
+    <string name="delete_file">Удалить файл</string>
+    <string name="addFile">Добавить в файл</string>
+    <string name="test">Test</string>
+</resources>
