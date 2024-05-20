@@ -114,7 +114,7 @@ public class MainActivity extends AppCompatActivity {
             String line;
 
             while ((line = bufferedReader.readLine()) != null) {
-                fileContent.append(line).append("\\n"); // Чтение данных из файла
+                fileContent.append(line).append("\n"); // Чтение данных из файла
             }
 
             // Вывод содержимого файла
